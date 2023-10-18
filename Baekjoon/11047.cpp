@@ -4,7 +4,7 @@
 * 링크: https://www.acmicpc.net/problem/11047
 * 사용한 알고리즘: greedy
 * 접근 방식: 각 숫자들이 배수 관계라는 조건이 있길래 유형이 수학인가 싶었음
-*          잘 생각해보니 해당 조건 때문에 greedy choice property를 만족한다는 것을 알고, greedy를 적용하여 해결
+*           잘 생각해보니 해당 조건 때문에 greedy choice property를 만족한다는 것을 알고, greedy를 적용하여 해결
 */
 
 #include <iostream>
